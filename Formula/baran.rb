@@ -2,8 +2,8 @@ class Baran < Formula
   desc "Host-side companion of the Baran terminal: QR pairing and push"
   homepage "https://github.com/belokonandreyka/baran-host"
   url "https://github.com/belokonandreyka/baran-host.git",
-      tag:      "v0.3.18",
-      revision: "896e6d382a8e78f11a980a86ce56328fe88e8f93"
+      tag:      "v0.3.19",
+      revision: "e26919ce626915fd1b2cd8dd3f1bf5702d0f8d78"
   license "MIT"
   head "https://github.com/belokonandreyka/baran-host.git", branch: "main"
 
